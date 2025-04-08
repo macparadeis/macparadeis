@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Escape Room Challenge Capstone Project</b>
-  - [Escape Room Challenge](https://github.com/AshSta512/escape-room-challenge)
+  - [Escape Room Challenge](https://github.com/macparadeis/capstone/)
 - <b>Cloud Based Development</b>
   - [Demo Website](https://cs-493-project.uc.r.appspot.com/) 
 
@@ -22,7 +22,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mackenzie-paradeis218 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/mackenzie-paradeis218/
 
