@@ -4,8 +4,10 @@
 
 - <b>Escape Room Challenge Capstone Project</b>
   - [Escape Room Challenge](https://github.com/macparadeis/capstone/)
+- <b>Usability Prototype</b>
+  - [Plant Care Assistant](https://github.com/macparadeis/usability/) 
 - <b>Cloud Based Development</b>
-  - [Demo Website](https://cs-493-project.uc.r.appspot.com/) 
+  - [Cloud Projects](https://github.com/macparadeis/cloud/) 
 
 <h2>👨‍💻 Education</h2>
 
@@ -18,7 +20,17 @@
 - <b>High School Diploma</b>
   - Awarded by Brainerd Senior High School May 2008
 
+<h2>Employment History</h2>
 
+- <b>Target</b>
+  - Employed here since 2021
+  - Roles include Food Service Expert and Fulfillment Expert
+- <b>Hornbacher's Grocery</b>
+  - Employed from June 2018 through October 2021
+  - Roles include Deli Manager, Assistant Deli Manager, Deli Night Supervisor, and Deli Clerk
+- <b>Glacial Waters Spa</b>
+  - Employed here from May 2015 through November 2017
+  - Certified Massage Therapist
 
 <h2> 🤳 Connect with me:</h2>
 
