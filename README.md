@@ -2,6 +2,9 @@
 
 <h2>Software Development Projects:</h2>
 
+
+- <b>Ruby Lab</b>
+  - [Rock Paper Scissors Spock Lizard](https://github.com/macparadeis/ruby-lab/) 
 - <b>Cloud Based Development</b>
   - [Tarpaulin Course Management Tool](https://github.com/macparadeis/cloud/) 
 - <b>Escape Room Challenge Capstone Project</b>
